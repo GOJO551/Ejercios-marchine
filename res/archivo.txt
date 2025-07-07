@@ -1,0 +1,2 @@
+Hola, este es un archivo de texto de prueba.
+Aquí puedes buscar palabras como hola, phython, prueba o texto.
